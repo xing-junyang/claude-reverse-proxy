@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+data
+bin
+.cache
+frontend/node_modules
+frontend/dist
+internal/web/dist
+coverage.out
+*.log
+README.md
